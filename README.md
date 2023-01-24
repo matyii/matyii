@@ -1,3 +1,7 @@
+![Banner](banner.gif)
+
+# Welcome!
+
 - 👋 Hi, I’m Matthew!
 - 👀 I’m interested in Python, Javascript, HTML & CSS
 - 🌱 I’m currently learning Javascript
