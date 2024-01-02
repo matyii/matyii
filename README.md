@@ -1,8 +1,9 @@
-![Banner](standard.gif)
+![Banner](banner.jpg)
+![My skills and hobbies](skills.jpg)
 
 # Welcome!
 
-- 👋 Hi, I’m Matthew!
-- 👀 I’m interested in Python, Javascript, HTML & CSS
-- 🌱 I’m currently learning Javascript
-- 📫 You can reach me through Discord: matyii
+- 👋 Hey there!
+- 👨‍🎓 I'm a 19-year-old student passionate about networking and coding.
+- 💻 My coding arsenal includes HTML & CSS, Bootstrap, and JavaScript.
+- 📧 Feel free to reach out to me anytime!
