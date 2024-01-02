@@ -1,5 +1,4 @@
 ![Banner](banner.jpg)
-![My skills and hobbies](skills.jpg)
 
 # Welcome!
 
