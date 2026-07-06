@@ -15,21 +15,17 @@ Outside of work, I build side projects, sharpen my engineering skills, and explo
 ## Widgets
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matyii&theme=github" alt="Profile summary" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matyii&theme=github&theme=dark" alt="Profile summary" />
 </p>
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matyii&theme=github" alt="Repos per language" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matyii&theme=github" alt="Most commit language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matyii&theme=github&theme=dark" alt="Repos per language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matyii&theme=github&theme=dark" alt="Most commit language" />
 </p>
 
 <p align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matyii&theme=github" alt="Stats" />
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matyii&theme=github&utcOffset=1" alt="Productive time" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=matyii&bg_color=ffffff00&color=0f172a&line=0e7490&point=0e7490&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ## Tech Stack Widgets
