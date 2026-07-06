@@ -15,12 +15,12 @@ Outside of work, I build side projects, sharpen my engineering skills, and explo
 ## Widgets
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matyii&theme=github&theme=dark" alt="Profile summary" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matyii&theme=dark" alt="Profile summary" />
 </p>
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matyii&theme=github&theme=dark" alt="Repos per language" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matyii&theme=github&theme=dark" alt="Most commit language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matyii&theme=dark" alt="Repos per language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matyii&theme=dark" alt="Most commit language" />
 </p>
 
 <p align="center">
