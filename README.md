@@ -15,16 +15,17 @@ Outside of work, I build side projects, sharpen my engineering skills, and explo
 ## Widgets
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=matyii&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matyii&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matyii&theme=github" alt="Profile summary" />
 </p>
 
 <p align="center">
-	<img height="180" src="https://streak-stats.demolab.com?user=matyii&theme=transparent&hide_border=true" alt="GitHub streak" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matyii&theme=github" alt="Repos per language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matyii&theme=github" alt="Most commit language" />
 </p>
 
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=matyii&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matyii&theme=github" alt="Stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matyii&theme=github&utcOffset=1" alt="Productive time" />
 </p>
 
 <p align="center">
@@ -52,6 +53,9 @@ Outside of work, I build side projects, sharpen my engineering skills, and explo
 ## Quick Links
 
 - Email: [matyas@matyas.services](mailto:matyas@matyas.services)
+- Website: [mzx.sk](https://mzx.sk)
+- Website: [matyas.services](https://matyas.services)
+- Website: [itsmatyii.dev](https://itsmatyii.dev)
 
 ---
 
