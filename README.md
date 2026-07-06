@@ -24,8 +24,8 @@ Outside of work, I build side projects, sharpen my engineering skills, and explo
 </p>
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matyii&theme=github" alt="Stats" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matyii&theme=github&utcOffset=1" alt="Productive time" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matyii&theme=dark" alt="Stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matyii&theme=dark&utcOffset=1" alt="Productive time" />
 </p>
 
 ## Tech Stack Widgets
